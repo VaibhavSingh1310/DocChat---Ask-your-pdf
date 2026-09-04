@@ -1,6 +1,6 @@
 # 📄 DocChat — Chat with your PDFs
 
-🔗 **[Live demo](https://docchat---ask-your-pdf-n7ntsv4kkwnem5awr63ha8.streamlit.app/)** _(add once deployed)_
+🔗 **[Live demo](https://docchat---ask-your-pdf-n7ntsv4kkwnem5awr63ha8.streamlit.app/)** 
 
 ![demo](assets/demo.gif)
 
